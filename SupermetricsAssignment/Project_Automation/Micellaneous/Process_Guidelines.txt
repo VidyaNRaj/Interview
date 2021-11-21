@@ -1,0 +1,11 @@
+Steps:
+***************************************
+1. Create Folder structure to store automation resources
+
+2. Create Automation Resources and Store
+
+3. Create Organizer Spreadsheet
+(It provides instruction to driver script)
+
+4.Generate Initialisation script ( AOM Script)
+(It launches UFT tool, Calls driver script and closes UFT tool) 
